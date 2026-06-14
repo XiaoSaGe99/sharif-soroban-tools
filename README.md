@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Soroban-Dev-Tools</h1>
+  <h1>sharif-soroban-tools</h1>
   <p><strong>High-performance Rust CLI and debugging tools for Soroban smart contracts.</strong></p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-Soroban-Dev-Tools is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
+sharif-soroban-tools is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
 
 ## ✨ Key Features
 
@@ -26,8 +26,8 @@ Soroban-Dev-Tools is a critical component of our decentralized ecosystem. This r
 
 \\\ash
 # Clone the repository
-git clone https://github.com/YourOrganization/Soroban-Dev-Tools.git
-cd Soroban-Dev-Tools
+git clone https://github.com/YourOrganization/sharif-soroban-tools.git
+cd sharif-soroban-tools
 
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)
