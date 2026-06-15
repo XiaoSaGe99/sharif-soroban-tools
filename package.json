@@ -1,5 +1,5 @@
 {
-  "name": "sharif-soroban-tools",
+  "name": "@sharif-stellar-tools/sharif-soroban-tools",
   "version": "1.0.0",
   "description": "Tooling for developing, testing, and deploying Soroban smart contracts.",
   "main": "index.js",
